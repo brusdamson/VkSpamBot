@@ -1,0 +1,41 @@
+﻿<Window x:Class="WPFSpamBot.WindowAuthorization"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFSpamBot"
+        mc:Ignorable="d"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="Пожалуйста, авторизируйтесь!" Height="600" Width="800" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                <GradientStop Color="#FFA0A6DF"/>
+                <GradientStop Color="#FF20252C"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border x:Name="AuthBorder" MinWidth="400" Margin="15,95,15,89" VerticalAlignment="Center" Padding="30" MaxWidth="550" CornerRadius="20" Height="387">
+            <Border.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFA0A6E2" Offset="0.017"/>
+                    <GradientStop Color="#FF6F707C" Offset="0.719"/>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Border.Effect>
+                <DropShadowEffect BlurRadius="11" Color="LightGray" ShadowDepth="1"/>
+            </Border.Effect>
+            <StackPanel>
+                <TextBlock Text="Авторизация" FontSize="30" FontWeight="Bold" Margin="0 0 0 20" />
+
+                <TextBox x:Name="LoginBox" FontSize="20" materialDesign:HintAssist.Hint="Введите логин:" Style="{StaticResource MaterialDesignFloatingHintTextBox}"/>
+                <PasswordBox x:Name="PassBox" FontSize="20" materialDesign:HintAssist.Hint="Введите пароль:" Style="{StaticResource MaterialDesignFloatingHintPasswordBox}"/>
+                <Button HorizontalAlignment="Center" Content="Авторизироваться" Margin="10,20,10,0" Style="{StaticResource MaterialDesignFlatDarkBgButton}" Width="470" Click="Button_Click" x:Name="AuthButton" Height="37" Background="#FF817474"/>
+                <CheckBox x:Name="SaveData" Content="Сохранить данные " Height="55"/>
+            </StackPanel>
+        </Border>
+
+    </Grid>
+</Window>

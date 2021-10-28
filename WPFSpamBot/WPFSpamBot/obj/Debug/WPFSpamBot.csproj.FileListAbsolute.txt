@@ -1,0 +1,134 @@
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\WPFSpamBot.exe.config
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\WPFSpamBot.exe
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\WPFSpamBot.pdb
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.csprojAssemblyReference.cache
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\MainWindow.g.cs
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\App.g.cs
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot_MarkupCompile.cache
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot_MarkupCompile.lref
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\MainWindow.baml
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.g.resources
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.Properties.Resources.resources
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.csproj.GenerateResource.cache
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.csproj.CoreCompileInputs.cache
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.exe
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.pdb
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignColors.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\App.baml
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.csproj.CopyComplete
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WindowAuthorization.g.cs
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WindowAuthorization.baml
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\protobuf-net.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\VkNet.AudioBypassService.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\VkNet.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\protobuf-net.xml
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\VkNet.xml
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Emoji.Wpf.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\System.ValueTuple.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Typography.GlyphLayout.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Typography.OpenFont.dll
+C:\Users\Brus\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\System.ValueTuple.xml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\WPFSpamBot.exe.config
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\WPFSpamBot.exe
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\WPFSpamBot.pdb
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Emoji.Wpf.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignColors.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\protobuf-net.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\System.ValueTuple.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Typography.GlyphLayout.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Typography.OpenFont.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\VkNet.AudioBypassService.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\VkNet.dll
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\protobuf-net.xml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\System.ValueTuple.xml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\bin\Debug\VkNet.xml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.csproj.AssemblyReference.cache
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\MainWindow.g.cs
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WindowAuthorization.g.cs
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\App.g.cs
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot_MarkupCompile.cache
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot_MarkupCompile.lref
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\App.baml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\MainWindow.baml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WindowAuthorization.baml
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.g.resources
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.Properties.Resources.resources
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.csproj.GenerateResource.cache
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.csproj.CoreCompileInputs.cache
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.csproj.CopyComplete
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.exe
+C:\Users\Brus\Favorites\Ссылки\Проекты C#\source\repos\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.pdb
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\WPFSpamBot.exe.config
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\WPFSpamBot.exe
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\WPFSpamBot.pdb
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\Emoji.Wpf.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\HtmlAgilityPack.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignColors.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\protobuf-net.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\System.ValueTuple.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\Typography.GlyphLayout.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\Typography.OpenFont.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\VkNet.AudioBypassService.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\VkNet.dll
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\HtmlAgilityPack.xml
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignColors.pdb
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\protobuf-net.xml
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\System.ValueTuple.xml
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\bin\Debug\VkNet.xml
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\MainWindow.g.cs
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\WindowAuthorization.g.cs
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\App.g.cs
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot_MarkupCompile.cache
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot_MarkupCompile.lref
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\App.baml
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\MainWindow.baml
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\WindowAuthorization.baml
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.g.resources
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.Properties.Resources.resources
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.csproj.GenerateResource.cache
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.csproj.CoreCompileInputs.cache
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.csproj.CopyComplete
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.exe
+C:\Users\My\Desktop\Новая папка\WPFSpamBot\WPFSpamBot\obj\Debug\WPFSpamBot.pdb
